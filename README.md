@@ -22,8 +22,11 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - ZoteroBib - Online bibliography reference manager.
 
 # Plagiarims 
-- [Duplichecker] (https://www.duplichecker.com/) - Free version for texts of up to 1000 words and is available in paid versions for word count above 1000. It provides plagiarism percentage and highlights similar content to the list of sources
+- [Duplichecker](https://www.duplichecker.com/) - Free version for texts of up to 1000 words and is available in paid versions for word count above 1000. It provides plagiarism percentage and highlights similar content to the list of sources
 
-
+## Illustrations
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpt0M9qAjEQBvBXmc7V3RfYg1KooEJPXnMZkk83kD-aJsgivnuzm5VeOqdJ5vcNJE_W0YAH_sG9IGh8Wbkm8SpQrW8kN4V-u92c4hgGOsC5SHPf0RgfJAk0xbJr-tNZjT_cmJYwExohiTxWOs_6SvslUxfblu7ouCQWXWMf__MjXQBH1wTJK3kXd-yRvFhTH_WcZ4rzCA_FQ20NLlJcVqzCq9JyM5KxNzbHxENOBR1LyfE8Bf0-N7P-S7t8_QKiKGLr) - Define simple diagrams instead of drawing them.
+- [Graphviz](https://graphviz.org/)- A way of representing structural information as diagrams of abstract graphs and networks
+- 
 
 
