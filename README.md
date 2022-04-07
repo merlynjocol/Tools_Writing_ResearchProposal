@@ -9,15 +9,13 @@ Below is a curated list of tools and resources related to design and writing a r
 - [Tool to refine the Research Question](https://umich.instructure.com/courses/824/modules/items/79077)
 - [Online tool to refine the Resarch Question](https://apps.lib.umich.edu/rq/)
 - [Criteria to built your research Question](https://en.wikipedia.org/wiki/Research_question) 
+- [How to Write a Research Proposal]( https://www.storydoc.com/blog/how-to-write-a-research-proposal) - Template, Format, Tips to write objetives and the components 
 
 
-
-## Template of Research Proposal
-- [DataScience Phd Proposal]( https://data-science-group.github.io/PhdProposalMQ.pdf)
-
-
-## Self-Assessment for Research Proposal
-- [Self-Assessment]( http://ppmj.org.pk/index.php/ppmj/article/view/349/217)
+## Tools for Desing the Research Proposal
+- [Template of DataScience Phd Proposal ]( https://data-science-group.github.io/PhdProposalMQ.pdf)
+- [Self-Assessment your Research Proposal]( http://ppmj.org.pk/index.php/ppmj/article/view/349/217)
+- [Desing Resarch tools](https://designresearchmethods.com/tools/)
 
 
 ## Access to Scientific Publications
