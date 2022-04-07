@@ -2,7 +2,8 @@
 
 Below is a curated list of tools and resources related to design and writing a research proposal.  It is largely inspired by the students who are lost in huge ammount of tools and lack of updated list. Feel free to share suggestions. When it comes to software, free and open-source options are preferred to proprietary ones.
 
-
+## Guidelines to write a Research Proposal
+- Develop a Research proposal (https://my.uq.edu.au/files/10720/sample-annotated-research-proposal.pdf) - Guideline from the U. Queensland to write a research proposal with academic purposes
 
 ## Access to Scientific Publications
 SciHub - Another site for gaining access to science papers that are normally behind paywalls.
@@ -23,7 +24,9 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
 ## Plagiarim checker
 - [Duplichecker](https://www.duplichecker.com/) - Free version for texts of up to 1000 words and is available in paid versions for word count above 1000. It provides plagiarism percentage and highlights similar content to the list of sources
-- 
+- Urkund
+- iThenticate 
+- [Enago’s plagiarism checker](https://www.enago.com/plagiarism-checker/)- is a unique tool for quick, comprehensive, and dependable plagiarism checking, especially for research.
 
 ## Illustrations
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpt0M9qAjEQBvBXmc7V3RfYg1KooEJPXnMZkk83kD-aJsgivnuzm5VeOqdJ5vcNJE_W0YAH_sG9IGh8Wbkm8SpQrW8kN4V-u92c4hgGOsC5SHPf0RgfJAk0xbJr-tNZjT_cmJYwExohiTxWOs_6SvslUxfblu7ouCQWXWMf__MjXQBH1wTJK3kXd-yRvFhTH_WcZ4rzCA_FQ20NLlJcVqzCq9JyM5KxNzbHxENOBR1LyfE8Bf0-N7P-S7t8_QKiKGLr) - Define simple diagrams instead of drawing them
@@ -33,7 +36,16 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 ## Writing, Grammar and Spell Checking 
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn 
 - [Language Tool](https://languagetool.org/) - writing assistant for all common browsers and word processors
+- Trinka AI is the world’s first grammar and language improvement tool designed specifically for academic and technical writing.
+- Grammarly is a popular browser application or extension developed to check grammar, punctuation, context, sentence structure, and readability.
 
+## Academic Search Engines (Multidisciplinary)
+- Google Scholar 
+- Bielefeld Academic Search Engine (BASE)(https://www.base-search.net/)
+- COnnecting REpositories (CORE) Academic Search Engine
+- Semantic Scholar Academic Search Engine
+- Microsoft Academic Search Engine
+- [Scinapse](https://www.scinapse.io/) - is a free, nonprofit, powerful, emerging academic search engine for discovering research papers
 
 ## Literature Mapping tools 
 - [Citation Gecko](https://github.com/CitationGecko) -free open-source robust literature discovery and reviews mapping web application
@@ -51,12 +63,23 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Paperdigest](https://www.paper-digest.com/) - summarizes academic articles
 - [TLDRs (Too Long; Didn't Read)](https://scitldr.apps.allenai.org/) - Are super-short summaries of the main objective and results of a scientific paper generated from Allen Isntitute fro AI
 
+## Academic Writing Tools for Academic Research 
+- LaTeX is a high-quality typesetting document preparation system that includes features designed for the preparation of technical and scientific documentation
+- LibreOffice - This suite is free and open-source robust software.
+- MiKTex - MiKTeX is a free distribution of the TeX/LaTeX typesetting system for Microsoft Windows.
+- Google Docs -It is a free online document for personal use. 
 
 ## How to do?
 - [How to Identify Relevant Academic Papers Using Literature Discovery Too](https://researcherssite.com/how-to-identify-relevant-academic-papers-using-literature-discovery-tool/) - with CitationGeko
 - [Finding Relevant Academic Papers with Cocitations](https://researcherssite.com/finding-relevant-academic-papers-with-cocitations-cocites-tool/) - Using CoCites Tool
 - [Useful Academic Search Engine for Research](https://researcherssite.com/useful-academic-search-engine-for-research/)
 - [How to Find and Explore Research Papers Using Visual Tool](https://researcherssite.com/how-to-find-and-explore-research-papers-using-visual-tool/)
+
+
+## Developing Academic skills 
+- [Critical reading and Analysis]( https://my.uq.edu.au/information-and-services/student-support/study-skills/general-study-skills/critical-reading-and-analysis)
+- [Critical thinking](https://www.student.unsw.edu.au/critical-thinking)
+- 
 
 ## Chrome Extensions for Academic Researchers
 - https://researcherssite.com/7-chrome-extensions-for-academic-researchers/
@@ -67,7 +90,14 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Writefull for Overleaf](https://chrome.google.com/webstore/detail/writefull-for-overleaf/edhnemgfcihjcpfhkoiiejgedkbefnhg?hl=en)- Writefull is automated proofreading for academic writing. 
 - [Draftback](https://chrome.google.com/webstore/detail/draftback/nnajoiemfpldioamchanognpjmocgkbg)-  allows you to playback the revision history of any Google Doc you can edit. 
 
+## Proposal Managment 
+- Trello - organize their ideas through the use of panels, cards, and lists.
+- Notion 
 
+## Social Media for Academia Researchers
+ORCID
+Academia
+Figshare
 
 
 ## Other list
@@ -76,3 +106,6 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 -  
+## Champions to follow 
+- https://researcherssite.com/about-me/
+- 
