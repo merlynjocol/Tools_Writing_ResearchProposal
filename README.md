@@ -11,23 +11,24 @@ arXiv - A Cornell-supported site for sharing and discussing early drafts of scie
 Directory of Open Access Journals - Over 9000 journals listed.
 Investigative Dashboard - A tool for researchers, especially journalists, to share documents and findings
 
-## Bibliography
+## Reference Management 
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
-- Citation Style Language (CSL) styles - Crowdsourced repository with over 9000 free CSL citation styles and an online editor to create new ones.
-- JabRef - Open source bibliography reference manager.
-- Zotero - FOSS tool to collect, organize, cite, and share research.
-  - Better BibTeX for Zotero - Enhanced BibTeX / BibLaTeX integration for Zotero.
-  - ZotFile for Zotero - Enhanced PDF file management for Zotero.
-- ZoteroBib - Online bibliography reference manager.
+-[Citation Style Language](CSL) styles (https://citationstyles.org/) - Crowdsourced repository with over 9000 free CSL citation styles and an online editor to create new ones.
+- [Zotero](https://www.zotero.org/) - free, easy-to-use tool to help you collect, organize, cite, and share research
+  - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/)- Enhanced BibTeX / BibLaTeX integration for Zotero.
+  - [otFile for Zotero] (http://zotfile.com/)- Enhanced PDF file management for Zotero.
+- [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
+
 
 ## Plagiarim checker
 - [Duplichecker](https://www.duplichecker.com/) - Free version for texts of up to 1000 words and is available in paid versions for word count above 1000. It provides plagiarism percentage and highlights similar content to the list of sources
+- 
 
 ## Illustrations
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpt0M9qAjEQBvBXmc7V3RfYg1KooEJPXnMZkk83kD-aJsgivnuzm5VeOqdJ5vcNJE_W0YAH_sG9IGh8Wbkm8SpQrW8kN4V-u92c4hgGOsC5SHPf0RgfJAk0xbJr-tNZjT_cmJYwExohiTxWOs_6SvslUxfblu7ouCQWXWMf__MjXQBH1wTJK3kXd-yRvFhTH_WcZ4rzCA_FQ20NLlJcVqzCq9JyM5KxNzbHxENOBR1LyfE8Bf0-N7P-S7t8_QKiKGLr) - Define simple diagrams instead of drawing them
 - [Graphviz](https://graphviz.org/)- A way of representing structural information as diagrams of abstract graphs and networks
-- 
+- [Infogram](https://infogram.com/app/#/library) - to handle, flexible, and lets you communicate with graphs. It's not free to download the projects but you can use it and copy them
 
 ## Writing, Grammar and Spell Checking 
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn 
