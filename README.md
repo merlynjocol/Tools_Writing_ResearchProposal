@@ -5,6 +5,16 @@ Below is a curated list of tools and resources related to design and writing a r
 ## Guidelines to write a Research Proposal
 - Develop a Research proposal (https://my.uq.edu.au/files/10720/sample-annotated-research-proposal.pdf) - Guideline from the U. Queensland to write a research proposal with academic purposes
 
+
+
+## Template of Research Proposal
+- [DataScience Phd Proposal]( https://data-science-group.github.io/PhdProposalMQ.pdf)
+
+
+## Self-Assessment for Research Proposal
+-[Self-Assessment]( http://ppmj.org.pk/index.php/ppmj/article/view/349/217)
+
+
 ## Access to Scientific Publications
 SciHub - Another site for gaining access to science papers that are normally behind paywalls.
 Public Library of Science (PLOS) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
@@ -32,12 +42,15 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpt0M9qAjEQBvBXmc7V3RfYg1KooEJPXnMZkk83kD-aJsgivnuzm5VeOqdJ5vcNJE_W0YAH_sG9IGh8Wbkm8SpQrW8kN4V-u92c4hgGOsC5SHPf0RgfJAk0xbJr-tNZjT_cmJYwExohiTxWOs_6SvslUxfblu7ouCQWXWMf__MjXQBH1wTJK3kXd-yRvFhTH_WcZ4rzCA_FQ20NLlJcVqzCq9JyM5KxNzbHxENOBR1LyfE8Bf0-N7P-S7t8_QKiKGLr) - Define simple diagrams instead of drawing them
 - [Graphviz](https://graphviz.org/)- A way of representing structural information as diagrams of abstract graphs and networks
 - [Infogram](https://infogram.com/app/#/library) - to handle, flexible, and lets you communicate with graphs. It's not free to download the projects but you can use it and copy them
+-[https://www.diagrams.net/](https://www.diagrams.net/)
+
 
 ## Writing, Grammar and Spell Checking 
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn 
 - [Language Tool](https://languagetool.org/) - writing assistant for all common browsers and word processors
 - Trinka AI is the world’s first grammar and language improvement tool designed specifically for academic and technical writing.
 - Grammarly is a popular browser application or extension developed to check grammar, punctuation, context, sentence structure, and readability.
+- [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and style checking on LaTeX documents.
 
 ## Academic Search Engines (Multidisciplinary)
 - Google Scholar 
@@ -68,6 +81,8 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - LibreOffice - This suite is free and open-source robust software.
 - MiKTex - MiKTeX is a free distribution of the TeX/LaTeX typesetting system for Microsoft Windows.
 - Google Docs -It is a free online document for personal use. 
+- Mark Text-https://marktext.app/
+- 
 
 ## How to do?
 - [How to Identify Relevant Academic Papers Using Literature Discovery Too](https://researcherssite.com/how-to-identify-relevant-academic-papers-using-literature-discovery-tool/) - with CitationGeko
