@@ -57,7 +57,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Useful Academic Search Engine for Research](https://researcherssite.com/useful-academic-search-engine-for-research/)
 - [How to Find and Explore Research Papers Using Visual Tool](https://researcherssite.com/how-to-find-and-explore-research-papers-using-visual-tool/)
 
-## Extensions for Google Chrome for Academic Researchers
+## Chrome Extensions for Academic Researchers
 - https://researcherssite.com/7-chrome-extensions-for-academic-researchers/
 -  (OAmg extension](https://chrome.google.com/webstore/detail/oamg/ahnnebfmpaambhblikbbbhdfaknfjfcd)- Combines all Open Access databases and connects them.
 - [TLDR](https://chrome.google.com/webstore/detail/tldr-this-free-automatic/jjmnbidkmmabkalampbilajnheeokpoj) -This chrome extension summarizes any paper, document, and webpage.
