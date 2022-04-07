@@ -6,7 +6,9 @@ Below is a curated list of tools and resources related to design and writing a r
 ## Guidelines to write a Research Proposal
 - [Develop a Research proposal](https://my.uq.edu.au/files/10720/sample-annotated-research-proposal.pdf) - Guideline from the U. Queensland to write a research proposal with academic purposes
 - [Define the Problem and research Question](https://www.notion.so/Session-2-Oct-8-11674b2a5b3f47aea80f1dbb2edade3f) - Guidelines to help you with methods and templates from brainstorming to the research question
-- 
+- [Tool to refine the Research Question](https://umich.instructure.com/courses/824/modules/items/79077)
+- [Online tool to refine the Resarch Question](https://apps.lib.umich.edu/rq/)
+- [Criteria to built your research Question](https://en.wikipedia.org/wiki/Research_question) 
 
 
 
