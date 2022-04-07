@@ -3,7 +3,7 @@
 Below is a curated list of tools and resources related to design and writing a research proposal.  It is largely inspired by the students who are lost in huge ammount of tools and lack of updated list. Feel free to share suggestions. When it comes to software, free and open-source options are preferred to proprietary ones.
 
 ## Guidelines to write a Research Proposal
-- Develop a Research proposal (https://my.uq.edu.au/files/10720/sample-annotated-research-proposal.pdf) - Guideline from the U. Queensland to write a research proposal with academic purposes
+- [Develop a Research proposal](https://my.uq.edu.au/files/10720/sample-annotated-research-proposal.pdf) - Guideline from the U. Queensland to write a research proposal with academic purposes
 
 
 
@@ -12,15 +12,15 @@ Below is a curated list of tools and resources related to design and writing a r
 
 
 ## Self-Assessment for Research Proposal
--[Self-Assessment]( http://ppmj.org.pk/index.php/ppmj/article/view/349/217)
+- [Self-Assessment]( http://ppmj.org.pk/index.php/ppmj/article/view/349/217)
 
 
 ## Access to Scientific Publications
-SciHub - Another site for gaining access to science papers that are normally behind paywalls.
-Public Library of Science (PLOS) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
-arXiv - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
-Directory of Open Access Journals - Over 9000 journals listed.
-Investigative Dashboard - A tool for researchers, especially journalists, to share documents and findings
+- SciHub - Another site for gaining access to science papers that are normally behind paywalls.
+- Public Library of Science (PLOS) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
+- arXiv - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
+- Directory of Open Access Journals - Over 9000 journals listed.
+- Investigative Dashboard - A tool for researchers, especially journalists, to share documents and findings
 
 ## Reference Management 
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
@@ -54,7 +54,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
 ## Academic Search Engines (Multidisciplinary)
 - Google Scholar 
-- Bielefeld Academic Search Engine (BASE)(https://www.base-search.net/)
+- [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/)
 - COnnecting REpositories (CORE) Academic Search Engine
 - Semantic Scholar Academic Search Engine
 - Microsoft Academic Search Engine
@@ -65,10 +65,10 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - Inciteful - free discovery tool that allows researchers to discover relevant academic research papers in a short time frame
 - [OpenKnowledge](https://openknowledgemaps.org/)- lets you find the most relevant and credible research papers through a user-friendly graphical user interface.
 -  [Connectedpapers](https://www.connectedpapers.com/)- Software to generated a graph of papers with similarity metric based on the concepts of cocitations and bibliographic coupling
--  Litmaps(https://researcherssite.com/9-innovative-literature-mapping-tools-every-researcher-needs-to-know/)- handy interactive visualization tool for discovering scientific literature
+-  [Litmaps](https://researcherssite.com/9-innovative-literature-mapping-tools-every-researcher-needs-to-know/)- handy interactive visualization tool for discovering scientific literature
 - [Local Citation Network](https://github.com/timwoelfle/Local-Citation-Network) - online free, open-source, and easy-to-use citation network graph visualizer
-- [CoCites] (https://www.cocites.com/)- finds articles that are frequently cited together with an article of interest.
--[VOSviewer] (https://www.vosviewer.com/)- a software tool for constructing and visualizing bibliometric networks
+- [CoCites](https://www.cocites.com/)- finds articles that are frequently cited together with an article of interest.
+-[VOSviewer](https://www.vosviewer.com/)- a software tool for constructing and visualizing bibliometric networks
 - [ResearchRabbit](https://www.researchrabbit.ai/) - online tool monitors new scholarly literature, visualizes research landscapes. 
 
 ## Summarizer for Scholars
@@ -82,7 +82,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - MiKTex - MiKTeX is a free distribution of the TeX/LaTeX typesetting system for Microsoft Windows.
 - Google Docs -It is a free online document for personal use. 
 - Mark Text-https://marktext.app/
-- 
+
 
 ## How to do?
 - [How to Identify Relevant Academic Papers Using Literature Discovery Too](https://researcherssite.com/how-to-identify-relevant-academic-papers-using-literature-discovery-tool/) - with CitationGeko
@@ -97,8 +97,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - 
 
 ## Chrome Extensions for Academic Researchers
-- https://researcherssite.com/7-chrome-extensions-for-academic-researchers/
--  (OAmg extension](https://chrome.google.com/webstore/detail/oamg/ahnnebfmpaambhblikbbbhdfaknfjfcd)- Combines all Open Access databases and connects them.
+- [OAmg extension](https://chrome.google.com/webstore/detail/oamg/ahnnebfmpaambhblikbbbhdfaknfjfcd)- Combines all Open Access databases and connects them.
 - [TLDR](https://chrome.google.com/webstore/detail/tldr-this-free-automatic/jjmnbidkmmabkalampbilajnheeokpoj) -This chrome extension summarizes any paper, document, and webpage.
 - [Lean Library](https://chrome.google.com/webstore/detail/lean-library/hghakoefmnkhamdhenpbogkeopjlkpoa) - you can get easy access to your library’s e-resources directly into your browser.
 - [Semantic Scholar](https://chrome.google.com/webstore/detail/semantic-scholar/kboocjlbbkedggcpllfoigfnhieejebk)- Quickly view research on Semantic Scholar, the free, AI-powered academic search engine from the Allen Institute for AI (AI2).
@@ -110,9 +109,9 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - Notion 
 
 ## Social Media for Academia Researchers
-ORCID
-Academia
-Figshare
+- ORCID
+- Academia
+- Figshare
 
 
 ## Other list
@@ -123,4 +122,4 @@ Figshare
 -  
 ## Champions to follow 
 - https://researcherssite.com/about-me/
-- 
+
