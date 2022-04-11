@@ -68,6 +68,7 @@ Below is a curated list of tools and resources related to design and writing a r
 - [Paperdigest](https://www.paper-digest.com/) - summarizes academic articles
 - [TLDRs (Too Long; Didn't Read)](https://scitldr.apps.allenai.org/) - Are super-short summaries of the main objective and results of a scientific paper generated from Allen Isntitute fro AI
 - [Summarizer](https://www.summarizer.org/)
+- [GetDigest](https://getdigest.com/en)- Shows relevant parts of the article
 
 ## Academic Writing Tools for Academic Research 
 - LaTeX is a high-quality typesetting document preparation system that includes features designed for the preparation of technical and scientific documentation
