@@ -21,9 +21,11 @@ Below is a curated list of tools and resources related to design and writing a r
 ## Access to Scientific Publications
 - SciHub - Another site for gaining access to science papers that are normally behind paywalls.
 - Public Library of Science (PLOS) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
-- arXiv - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
-- Directory of Open Access Journals - Over 9000 journals listed.
-- Investigative Dashboard - A tool for researchers, especially journalists, to share documents and findings
+- [arXiv](https://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
+- [DOAJ](https://doaj.org/)- Directory of Open Access Journals - Over 9000 journals listed.
+- [Investigative Dashboard](https://id.occrp.org/databases/) - A tool for researchers, especially journalists, to share documents and findings
+- [ACM Computing Surveys](https://dl.acm.org/journal/csur) -  focuses on integrating and adding understanding to the existing literature by publishing surveys and tutorials
+- [PaperswithCode](https://paperswithcode.com/)
 
 
 ## Academic Search Engines (Multidisciplinary)
