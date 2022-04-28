@@ -93,10 +93,11 @@ Below is a curated list of tools and resources related to design and writing a r
 -[https://www.diagrams.net/](https://www.diagrams.net/)
 
 ## Presentation and Edition tools
-
+- to be completed
 
 
 ## Picht your proposal 
+- to be completed
 
 
 ## How to do?
@@ -122,9 +123,10 @@ Below is a curated list of tools and resources related to design and writing a r
 - [Draftback](https://chrome.google.com/webstore/detail/draftback/nnajoiemfpldioamchanognpjmocgkbg)-  allows you to playback the revision history of any Google Doc you can edit. 
 
 
-## Proposal Managment 
+## Proposal Management 
 - Trello - organize their ideas through the use of panels, cards, and lists.
 - Notion 
+- [Template Proposal Management](https://www.notion.so/Research-Proposal-Template-1-d9b62752323340b5a3c740b4315c60f9)- Template for Notion
 
 
 
