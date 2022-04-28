@@ -93,7 +93,8 @@ Below is a curated list of tools and resources related to design and writing a r
 -[https://www.diagrams.net/](https://www.diagrams.net/)
 
 ## Presentation and Edition tools
-- to be completed
+- [Iconer](https://iconer.app/teenyicons/) free icons in svg, png, and code formar (HTML, REACT)
+
 
 
 ## Picht your proposal 
