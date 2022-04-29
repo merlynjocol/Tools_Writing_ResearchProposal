@@ -72,6 +72,9 @@ Below is a curated list of tools and resources related to design and writing a r
 - [Summarizer](https://www.summarizer.org/)
 - [GetDigest](https://getdigest.com/en)- Shows relevant parts of the article
 
+## Keywords Extraction
+- [BERT Keyword extraction](https://share.streamlit.io/charlywargnier/bert-keyword-extractor/main/app.py)- easy-to-use interface built in Streamlit for the amazing KeyBERT library to create keywords similiar to the document
+
 ## Academic Writing Tools for Academic Research 
 - LaTeX is a high-quality typesetting document preparation system that includes features designed for the preparation of technical and scientific documentation
 - LibreOffice - This suite is free and open-source robust software.
