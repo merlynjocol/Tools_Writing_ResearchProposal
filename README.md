@@ -1,6 +1,6 @@
 # Tools and Resources for Research Proposal
 
-Below is a curated list of tools and resources related to design and writing a research proposal.  It is largely inspired by the students who are lost in huge ammount of tools and lack of updated list. Feel free to share suggestions. When it comes to software, free and open-source options are preferred to proprietary ones.
+Below is a curated list of tools and resources related to design and writing a research proposal.  It is largely inspired by the Awesome list and the hope to help students or praticioners to find the ultimate tools to use in their writing path for research proposals. Feel free to share suggestions. When it comes to software, free and open-source options are preferred to proprietary ones. 
 
 
 ## Guidelines to write a Research Proposal
