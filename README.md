@@ -33,7 +33,7 @@ Below is a curated list of tools and resources related to design and writing a r
 - [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/)
 - COnnecting REpositories (CORE) Academic Search Engine
 - Semantic Scholar Academic Search Engine
-- Microsoft Academic Search Engine
+- 
 - [Scinapse](https://www.scinapse.io/) - is a free, nonprofit, powerful, emerging academic search engine for discovering research papers
 
 
