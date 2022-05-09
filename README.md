@@ -129,9 +129,9 @@ Below is a curated list of tools and resources related to design and writing a r
 
 
 ## Proposal Management 
-- [Trello](https://trello.com/en)- Organize their ideas through the use of panels, cards, and lists.
-- [Notion](https://www.notion.so/) 
-- [Template in Notion](https://www.notion.so/Research-Proposal-Template-1-d9b62752323340b5a3c740b4315c60f9)- Template to manage your time, deliverables, repositories and collaboration. Desing to use in Notion
+- [Trello](https://trello.com/en)- Organize their ideas through the use of panels, cards, and lists. Kanban framework
+- [Notion](https://www.notion.so/)- Project management and note-taking. Easy to customize
+- [Template in Notion](https://www.notion.so/Research-Proposal-Template-1-d9b62752323340b5a3c740b4315c60f9)- Template to manage your time, deliverables, repositories and collaboration in your writing the research proposal. Desing to use in Notion
 
 
 
