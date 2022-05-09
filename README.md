@@ -129,9 +129,9 @@ Below is a curated list of tools and resources related to design and writing a r
 
 
 ## Proposal Management 
-- Trello - organize their ideas through the use of panels, cards, and lists.
-- Notion 
-- [Template Proposal Management](https://www.notion.so/Research-Proposal-Template-1-d9b62752323340b5a3c740b4315c60f9)- Template for Notion
+- [Trello](https://trello.com/en)- Organize their ideas through the use of panels, cards, and lists.
+- [Notion](https://www.notion.so/) 
+- [Template in Notion](https://www.notion.so/Research-Proposal-Template-1-d9b62752323340b5a3c740b4315c60f9)- Template to manage your time, deliverables, repositories and collaboration. Desing to use in Notion
 
 
 
@@ -142,7 +142,7 @@ Below is a curated list of tools and resources related to design and writing a r
 
 
 ## Other list
-- [Awesome Scientif Writing](https://github.com/writing-resources/awesome-scientific-writing#readme)
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme)
 - [Awesome Technical writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 - [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 - [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
