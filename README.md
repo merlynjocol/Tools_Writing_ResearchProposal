@@ -19,8 +19,8 @@ Below is a curated list of tools and resources related to design and writing a r
 
 
 ## Access to Scientific Publications
-- SciHub - Another site for gaining access to science papers that are normally behind paywalls.
-- Public Library of Science (PLOS) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
+- [SciHub](https://sci-hub.hkvisa.net/) - Another site for gaining access to science papers that are normally behind paywalls.
+- [Public Library of Science (PLOS)](https://plos.org/) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
 - [arXiv](https://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
 - [DOAJ](https://doaj.org/)- Directory of Open Access Journals - Over 9000 journals listed.
 - [Investigative Dashboard](https://id.occrp.org/databases/) - A tool for researchers, especially journalists, to share documents and findings
@@ -48,8 +48,8 @@ Below is a curated list of tools and resources related to design and writing a r
 ## Writing, Grammar and Spell Checking 
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose for developers who can't write good and wanna learn 
 - [Language Tool](https://languagetool.org/) - writing assistant for all common browsers and word processors
-- Trinka AI is the world’s first grammar and language improvement tool designed specifically for academic and technical writing.
-- Grammarly is a popular browser application or extension developed to check grammar, punctuation, context, sentence structure, and readability.
+- [Trinka AI](https://www.trinka.ai/)- World’s first grammar and language improvement tool designed specifically for academic and technical writing.
+- [Grammarly](https://www.grammarly.com/)- Popular browser application or extension developed to check grammar, punctuation, context, sentence structure, and readability.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and style checking on LaTeX documents.
 
 
