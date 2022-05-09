@@ -101,7 +101,8 @@ Below is a curated list of tools and resources related to design and writing a r
 
 
 ## Picht your proposal 
-- to be completed
+- [Pitch your idea](https://entrepreneurs.inco-group.co/en/course/5e74f32e2db38b0017aaf8e9/part/5e78777c52768700174fce79/chapter/5e8469113b97f8001766010c)
+
 
 
 ## How to do?
@@ -142,10 +143,12 @@ Below is a curated list of tools and resources related to design and writing a r
 
 ## Other list
 - [Awesome Scientif Writing](https://github.com/writing-resources/awesome-scientific-writing#readme)
+- [Awesome Technical writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 - [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 - [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
--  
+
+
 ## Champions to follow 
 - https://researcherssite.com/about-me/
 
