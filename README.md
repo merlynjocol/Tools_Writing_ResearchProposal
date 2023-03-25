@@ -26,6 +26,7 @@ Below is a curated list of tools and resources related to design and writing a r
 - [Investigative Dashboard](https://id.occrp.org/databases/) - A tool for researchers, especially journalists, to share documents and findings
 - [ACM Computing Surveys](https://dl.acm.org/journal/csur) -  focuses on integrating and adding understanding to the existing literature by publishing surveys and tutorials
 - [PaperswithCode](https://paperswithcode.com/)
+- [Researchrabbit](https://www.researchrabbit.ai/)
 
 
 ## Academic Search Engines (Multidisciplinary)
